@@ -1,0 +1,16 @@
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\ResolveAssemblyReference.cache
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.Form1.resources
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.Properties.Resources.resources
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\GenerateResource.read.1.tlog
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\GenerateResource.write.1.tlog
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\bin\Release\MarcoFont.exe
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\bin\Release\MarcoFont.pdb
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.exe
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.pdb
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\bin\Release\MarcoFont.exe
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\bin\Release\MarcoFont.pdb
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.Form1.resources
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.Properties.Resources.resources
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.csproj.GenerateResource.Cache
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.exe
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\x86\Release\MarcoFont.pdb

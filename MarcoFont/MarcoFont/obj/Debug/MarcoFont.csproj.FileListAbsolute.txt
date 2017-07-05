@@ -1,0 +1,24 @@
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\bin\Debug\MarcoFont.exe
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\bin\Debug\MarcoFont.pdb
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.Form1.resources
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.Properties.Resources.resources
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.csproj.GenerateResource.Cache
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.exe
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.pdb
+C:\Users\Marco\Google Drive\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.csprojResolveAssemblyReference.cache
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.exe
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.pdb
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\bin\Debug\MarcoFont.exe
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\bin\Debug\MarcoFont.pdb
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.Form1.resources
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.Properties.Resources.resources
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.csproj.GenerateResource.Cache
+C:\Users\mmarr\GD\DocumentsPC\Dev\NET\MarcoFont\MarcoFont\obj\Debug\MarcoFont.csprojResolveAssemblyReference.cache
+C:\Marco32\C#\MarcoFont\MarcoFont\bin\Debug\MarcoFont.exe
+C:\Marco32\C#\MarcoFont\MarcoFont\bin\Debug\MarcoFont.pdb
+C:\Marco32\C#\MarcoFont\MarcoFont\obj\Debug\MarcoFont.csprojResolveAssemblyReference.cache
+C:\Marco32\C#\MarcoFont\MarcoFont\obj\Debug\MarcoFont.Form1.resources
+C:\Marco32\C#\MarcoFont\MarcoFont\obj\Debug\MarcoFont.Properties.Resources.resources
+C:\Marco32\C#\MarcoFont\MarcoFont\obj\Debug\MarcoFont.csproj.GenerateResource.Cache
+C:\Marco32\C#\MarcoFont\MarcoFont\obj\Debug\MarcoFont.exe
+C:\Marco32\C#\MarcoFont\MarcoFont\obj\Debug\MarcoFont.pdb

@@ -1,0 +1,9 @@
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Debug\MarcoFont.Form1.resources
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Debug\MarcoFont.Properties.Resources.resources
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\bin\Debug\MarcoFont.exe
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\bin\Debug\MarcoFont.pdb
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Debug\MarcoFont.exe
+C:\ProgramData\Data\Dev\NET\MarcoFont\MarcoFont\obj\x86\Debug\MarcoFont.pdb
